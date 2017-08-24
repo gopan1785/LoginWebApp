@@ -1,1 +1,1 @@
-This is a sample webapp.
+This is a webapp.
